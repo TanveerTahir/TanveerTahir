@@ -2,8 +2,11 @@
 
 I'm a **Modern AI Web Architecture** 
 enthusiast, specialising in development
-with **Python** 🐍, **Next.js** ✨, 
-**Node.js** 🟢, and **TypeScript** 📜.
+with:
+* **Python** 🐍
+* **Next.js** ✨
+* **Node.js** 🟢
+* **TypeScript** 📜
 
 I'm always **learning** 🧠 and exploring 
 new developments in **Internet technologies** 
