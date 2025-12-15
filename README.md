@@ -22,6 +22,6 @@ Feel free to connect!
 ---
 # Let's Connect!
 
-LinkedIn,👔,[[Connect Now!](https://www.linkedin.com/in/tanveertahir/)]
-Twitter/X,🐦,[[Connect Now!](https://x.com/TanveerTah27730)]
+* 👔[[LinkedIn](https://www.linkedin.com/in/tanveertahir/)]
+* 🐦[[Twitter/X](https://x.com/TanveerTah27730)]
    
