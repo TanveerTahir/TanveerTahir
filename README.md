@@ -10,6 +10,7 @@ with:
 
 I'm always **learning** 🧠 and exploring new developments in
 **Internet technologies** 🌐 and **Artificial Intelligence** 💡.
+
 My goal is to build things that are both 
 **powerful** and **understandable**.
 Clear communication is key! 🗣️
@@ -20,4 +21,8 @@ Feel free to connect!
 
 ---
 # Let's Connect!
+
+Platform,Icon,Link
+LinkedIn,👔,[[Your LinkedIn Profile URL](https://www.linkedin.com/in/tanveertahir/)]
+Twitter/X,🐦,[[Your Twitter/X Profile URL](https://x.com/TanveerTah27730)]
    
