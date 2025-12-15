@@ -22,7 +22,6 @@ Feel free to connect!
 ---
 # Let's Connect!
 
-Platform,Icon,Link
-LinkedIn,👔,[[Your LinkedIn Profile URL](https://www.linkedin.com/in/tanveertahir/)]
-Twitter/X,🐦,[[Your Twitter/X Profile URL](https://x.com/TanveerTah27730)]
+LinkedIn,👔,[[Connect Now!](https://www.linkedin.com/in/tanveertahir/)]
+Twitter/X,🐦,[[Connect Now!](https://x.com/TanveerTah27730)]
    
