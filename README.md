@@ -1,8 +1,10 @@
 ## 👋 Welcome to My GitHub! 🤖
 
-I'm a **Modern AI Web Architecture** 
+I'm a **Modern Web AI Architecture** 
 enthusiast, specialising in development
 with:
+* **Agentic AI**
+* **OpenClaw**
 * **Python** 🐍
 * **Next.js** ✨
 * **Node.js** 🟢
